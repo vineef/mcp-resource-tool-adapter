@@ -1,5 +1,9 @@
 # mcp-resource-tool-adapter
 
+[![CI](https://github.com/vineef/mcp-resource-tool-adapter/actions/workflows/ci.yml/badge.svg)](https://github.com/vineef/mcp-resource-tool-adapter/actions/workflows/ci.yml)
+
+# mcp-resource-tool-adapter
+
 Expose MCP resources through generic tools for MCP clients and models that
 cannot call `resources/read` directly.
 
